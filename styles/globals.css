@@ -68,16 +68,5 @@ p {
   box-shadow: 0 0 20px black;
 }
 
-#code {
-  height: fit-content;
-  width: fit-content;
-  position: absolute;
-  top:5px;
-  left:5px;
-  letter-spacing: 5px;
-  font-size:15px;
-  color: bisque;
-  padding: 5px;
-  
-}
+
 
